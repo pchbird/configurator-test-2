@@ -1,6 +1,6 @@
 # configurator-test-2
 
-test 6
+test 7
 
 https://pchbird.github.io/configurator-test-2/
 
@@ -21,3 +21,9 @@ https://pchbird.github.io/configurator-test-2/
     <iframe style="position: absolute; top: 0px; left: 0px; height: 100%; width: 1px; min-width: 100%; *width: 100%;" src="https://www.keyshot.com/vr/keyshot6/motox/motox.html" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
   </div>
 <div>
+
+
+
+<iframe src="https://pchbird.github.io/configurator-test-2/configuatortest2.186.%d.jpg/keyshot-configurator.html" frameborder="0" scrolling="no" style="max-width: 1920px; max-height: 1440px; height: 100%; width: 100%;"></iframe>
+
+https://pchbird.github.io/configurator-test-2/configuatortest2.186.%d.jpg/keyshot-configurator.html
